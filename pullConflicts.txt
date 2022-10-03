@@ -26,3 +26,9 @@
 ██║░░╚██╗██║░░░██║░░░██╔══██║██║░░░██║██╔══██╗
 ╚██████╔╝██║░░░██║░░░██║░░██║╚██████╔╝██████╦╝
 ░╚═════╝░╚═╝░░░╚═╝░░░╚═╝░░╚═╝░╚═════╝░╚═════╝░
+
+
+
+Or you can simply use git pull which is simial to git pull <remote> <brancname>. 
+Just make sure that you are on a correct branch while using git pull i.e the branch
+in which you want to merge the changes.

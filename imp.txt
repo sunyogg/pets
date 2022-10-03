@@ -11,3 +11,6 @@ then it will always abort the pulls that are not fast forward, thus again making
 isn't there anything that works for both, if merge is fast forward it should simply
 merge without creating a new merge, and if pull is not of type fast forward, then
 it should promt me for fixing the conflicts.
+
+
+doing some changes again here in github to check how it will react for a non fast-forward pull.

@@ -1,12 +1,9 @@
-
-
 ██████╗░██████╗░░█████╗░██████╗░██╗░░░░░███████╗███╗░░░███╗░██████╗
 ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██║░░░░░██╔════╝████╗░████║██╔════╝
 ██████╔╝██████╔╝██║░░██║██████╦╝██║░░░░░█████╗░░██╔████╔██║╚█████╗░
 ██╔═══╝░██╔══██╗██║░░██║██╔══██╗██║░░░░░██╔══╝░░██║╚██╔╝██║░╚═══██╗
 ██║░░░░░██║░░██║╚█████╔╝██████╦╝███████╗███████╗██║░╚═╝░██║██████╔╝
 ╚═╝░░░░░╚═╝░░╚═╝░╚════╝░╚═════╝░╚══════╝╚══════╝╚═╝░░░░░╚═╝╚═════╝░
-
 
 why am i creating so many unnecessary files (like somthing, catASCII)?
 Ah! I am getting confused and having some issues.
@@ -20,3 +17,5 @@ then it will always abort the pulls that are not fast forward, thus again making
 isn't there anything that works for both, if merge is fast forward it should simply
 merge without creating a new merge, and if pull is not of type fast forward, then
 it should promt me for fixing the conflicts.
+
+doing some changes here and there to create a merge conflict
